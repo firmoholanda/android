@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "565724475424",
+    "firebase_url": "https://zaplimp-6894d.firebaseio.com",
+    "project_id": "zaplimp-6894d",
+    "storage_bucket": "zaplimp-6894d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565724475424:android:f9c9c7afc349c143",
+        "android_client_info": {
+          "package_name": "com.viize.zaplimp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565724475424-n8p1qu8va7t20tl47jsiictol0q1grrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.viize.zaplimp",
+            "certificate_hash": "F1970C0F4650830B7983EE4B7FD6BCA47585BB97"
+          }
+        },
+        {
+          "client_id": "565724475424-kooaqih2bov4fv9dk2d27ic0ud19oehq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCng1hf9fCfwUa5r2ch5gZkU2oiSDnhR9o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
